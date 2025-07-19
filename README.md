@@ -16,6 +16,7 @@ A fun and animated 2D side-scrolling platformer game developed using **Pygame**.
 ---
 
 ## 🖥️ Gameplay Preview
-
+![image alt](https://github.com/rohansingh2609/GAME/blob/main/Screenshot%202025-07-19%20222727.png?raw=true)
+![image alt](https://github.com/rohansingh2609/GAME/blob/main/Screenshot%202025-07-19%20222753.png?raw=true)
 
 ---
