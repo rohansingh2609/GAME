@@ -1,17 +1,21 @@
-🕹️ Pygame Platformer
-A classic 2D platformer game built with Pygame, featuring jumping mechanics, traps (fire), multiple platforms, and side-scrolling support. The game includes animated characters, dynamic background rendering, and basic collision detection.
+# 🎮 Pygame Platformer
 
-🚀 Features
-🎮 Character animation and controls (run, jump, double-jump, fall, idle, hit)
+A fun and animated 2D side-scrolling platformer game developed using **Pygame**. Control the player as they run, jump, and dodge hazards like fire traps while exploring a pixel-art environment. This project demonstrates core platformer mechanics including jumping physics, sprite animations, collision detection, and scrolling levels.
 
-🔥 Animated fire trap with collision detection
+---
 
-🧱 Terrain with reusable tile blocks
+## 🧩 Features
 
-🌄 Scrolling background
+- **Player Movement**: Smooth walking, jumping, and double-jumping  
+- **Scrolling World**: The camera scrolls horizontally as the player moves  
+- **Traps**: Animated fire hazards that damage the player  
+- **Tile-based Map**: Reusable blocks and objects make up the level  
+- **Sprite Animation**: Fully animated character using sprite sheets  
+- **Collision Detection**: Pixel-perfect collision using masks  
 
-🏃 Smooth side-scrolling as the player moves
+---
 
-🧠 Sprite masking for accurate collisions
+## 🖥️ Gameplay Preview
 
-🧰 Modular and extensible game object system
+
+---
